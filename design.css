@@ -1,0 +1,19 @@
+.reg{
+padding: 110px;
+text-align: center;
+margin: 20px;
+margin-top: 2%;
+color: #fff;
+font-family: 'Zaio', sán-serif;
+}
+.reg p{
+margin-bottom:24px;
+height: 15px;
+}
+.img{
+margin-top: 40px;
+border-radius: 240px;
+float: right;
+margin-right: 100px;
+width: 550px;
+}
