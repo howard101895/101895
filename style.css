@@ -126,26 +126,28 @@ body{
 	letter-spacing: 3px;
 }
 
+
 .reg{
-padding: 110px;
-text-align: center;
-margin: 2.0px;
-margin-top: 2%;
-color: #fff;
-font-family: 'Zaio', san-serif;
+	padding: 110px;
+	text-align: center;
+	margin: 20px;
+	margin-top: 2%;
+	color: #fff;
+	font-family: 'Zaio', sans-serif;
 }
 .reg p{
-margin-bottom:24px;
-height: 15px;
-}
-.image img{
-margin-top: 40px;
-border-radius: 240px;
-float: right;
-margin-right: 100px;
-width: 550px;
+	margin-bottom: 24px;
+	height: 15px;
 }
 
+
+.image img{
+	margin-top: 40px;
+	border-radius: 240px;
+	float: right;
+	margin-right: 100px;
+	width:550px;
+}
 
 .loms{
 	padding: 110px;
@@ -166,4 +168,3 @@ width: 550px;
 	float: right;
 	margin-right: 100px;
 	width:550px;
-
